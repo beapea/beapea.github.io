@@ -43,11 +43,6 @@ const artistList = [
     photo: '/assets/img/artists-thumbs/Giorgia-Toselli.jpg',
   },
   {
-    name: 'Maria Krimskaya',
-    url: '/rooms/Maria-Krimskaya.html',
-    photo: '/assets/img/artists-thumbs/Maria-Krimskaya.jpg',
-  },
-  {
     name: 'Martina Paganelli',
     url: '/rooms/Martina-Paganelli.html',
     photo: '/assets/img/artists-thumbs/Martina-Paganelli.jpg',
