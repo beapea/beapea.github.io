@@ -28,9 +28,9 @@ const artistList = [
     photo: '/assets/img/artists-thumbs/Elisa-Cocchi.jpg',
   },
   {
-    name: 'Federica Amadii Barbagli',
-    url: '/rooms/Federica-Amadii-Barbagli.html',
-    photo: '/assets/img/artists-thumbs/Federica-Amadii-Barbagli.jpg',
+    name: 'Federica Amaddii Barbagli',
+    url: '/rooms/Federica-Amaddii-Barbagli.html',
+    photo: '/assets/img/artists-thumbs/Federica-Amaddii-Barbagli.jpg',
   },
   {
     name: 'Giorgia Polverini',
