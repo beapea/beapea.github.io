@@ -1,7 +1,6 @@
 const BACKGROUND_COLOR = '#eee';
 
 const MAX_CIRCLE_DEG = 360;
-const DEFAULT_ROTATION = 90;
 
 const getData = (length) => {
   const firstBtn = {
